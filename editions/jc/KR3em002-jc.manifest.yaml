@@ -1,0 +1,4540 @@
+canonical_identifier: bkk:krp/KR3em002/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3em002/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 明目至寶
+  identifiers:
+    krp: KR3em002
+  tags:
+    kr-categories: KR3em
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3em002.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 1, filename: KR3em002_001-jc.yaml, hash: 'sha256:f426e8b96a6438049638e7d5fff84d28ec7b948d1129fd84f2e9578b1adc6d62'}
+  - {seq: 2, filename: KR3em002_002-jc.yaml, hash: 'sha256:cc2482e5b0e3f2c520ead1e9eae81af1526a3c7a0e450e219fc86b3e4a0dc360'}
+  - {seq: 3, filename: KR3em002_003-jc.yaml, hash: 'sha256:ed1f9d8dc62838afc3558f09cec3b129c998778241208cbad50349d782ffde40'}
+  - {seq: 4, filename: KR3em002_004-jc.yaml, hash: 'sha256:e08f2259c3992cd2eb9e17e7a7f85d70ed1bf051ad1e1a8f39b8f4a2223e9f61'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3em002_001-jc.markers.yaml, hash: 'sha256:2644bedcd30ccc46e45bdacfd1060f63b28a5d96385d9a26cf5a8a2804c81093'}
+  - {seq: 2, role: markers, filename: assets/KR3em002_002-jc.markers.yaml, hash: 'sha256:71e079570838d73e39aeb5038d7a474af6127dc7bf86ebad726f67e13719fc6b'}
+  - {seq: 3, role: markers, filename: assets/KR3em002_003-jc.markers.yaml, hash: 'sha256:48a5daef96f06058e6798ce820f061ae96eb80b03fb063633e434a71436c90fc'}
+  - {seq: 4, role: markers, filename: assets/KR3em002_004-jc.markers.yaml, hash: 'sha256:8832a2e176a1baae274d6581e64cd3ae18f25f6cfaddcd5724e2d8801425a282'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3em002_jc_001-d2.h1s1
+    span:
+    - body
+    - 0
+    - 11972
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3em002_jc_001-d2d2
+    span:
+    - body
+    - 2
+    - 470
+  label: 明目賦
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em002_jc_001-d2d3
+    span:
+    - body
+    - 470
+    - 639
+  label: 眼科論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em002_jc_001-d2d4
+    span:
+    - body
+    - 639
+    - 843
+  label: 孫真人諭眼論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em002_jc_001-d2d5
+    span:
+    - body
+    - 843
+    - 1010
+  label: 陰陽相應辨論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em002_jc_001-d2d6
+    span:
+    - body
+    - 1010
+    - 1272
+  label: 上古天真論眼科
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em002_jc_001-d2d7
+    span:
+    - body
+    - 1272
+    - 1524
+  label: 通明論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em002_jc_001-d2d8
+    span:
+    - body
+    - 1524
+    - 1710
+  label: 軒轅黃帝說眼病目科
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em002_jc_001-d2d9
+    span:
+    - body
+    - 1710
+    - 2463
+  label: 四季五行發揮妙訣
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em002_jc_001-d2d10
+    span:
+    - body
+    - 2463
+    - 3045
+  label: 明目賦
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em002_jc_001-d2d11
+    span:
+    - body
+    - 3045
+    - 4000
+  label: 太玄真人論眼病五輪所屬
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em002_jc_001-d2.d11d6
+    span:
+    - body
+    - 3160
+    - 3338
+  label: 羚羊角散
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em002_jc_001-d2.d11d7
+    span:
+    - body
+    - 3338
+    - 3521
+  label: 地黃丸
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em002_jc_001-d2.d11d8
+    span:
+    - body
+    - 3521
+    - 3693
+  label: 薏苡仁散
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em002_jc_001-d2.d11d9
+    span:
+    - body
+    - 3693
+    - 3878
+  label: 蒺藜散
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em002_jc_001-d2.d11d10
+    span:
+    - body
+    - 3878
+    - 4000
+  label: 枸杞子丸
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em002_jc_001-d2d12
+    span:
+    - body
+    - 4000
+    - 5354
+  label: 太玄真人問眼病因論八廓所屬八卦也
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em002_jc_001-d2.d12d6
+    span:
+    - body
+    - 4101
+    - 4258
+  label: 清神散
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em002_jc_001-d2.d12d7
+    span:
+    - body
+    - 4258
+    - 4404
+  label: 當歸散
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em002_jc_001-d2.d12d8
+    span:
+    - body
+    - 4404
+    - 4557
+  label: 洗鏡丹
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em002_jc_001-d2.d12d9
+    span:
+    - body
+    - 4557
+    - 4713
+  label: 玄精石散
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em002_jc_001-d2.d12d10
+    span:
+    - body
+    - 4713
+    - 4908
+  label: 楮實子丸
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em002_jc_001-d2.d12d11
+    span:
+    - body
+    - 4908
+    - 5076
+  label: 水鏡散
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em002_jc_001-d2.d12d12
+    span:
+    - body
+    - 5076
+    - 5261
+  label: 地黃丸
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em002_jc_001-d2.d12d13
+    span:
+    - body
+    - 5261
+    - 5354
+  label: 煮肝散
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em002_jc_001-d2d13
+    span:
+    - body
+    - 5354
+    - 5482
+  label: 論五輪受病之因
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em002_jc_001-d2d14
+    span:
+    - body
+    - 5482
+    - 5581
+  label: 論八廓受實熱病之因
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em002_jc_001-d2d15
+    span:
+    - body
+    - 5581
+    - 5695
+  label: 論八廓受虛寒病之因
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em002_jc_001-d2d16
+    span:
+    - body
+    - 5695
+    - 6167
+  label: 論五行所屬金木水火土位
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em002_jc_001-d2.d16d50
+    span:
+    - body
+    - 6123
+    - 6155
+  label: 四季所屬
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em002_jc_001-d2.d16d51
+    span:
+    - body
+    - 6155
+    - 6159
+  label: 五輪所屬
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em002_jc_001-d2.d16d52
+    span:
+    - body
+    - 6159
+    - 6163
+  label: 五輪證治
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em002_jc_001-d2.d16d53
+    span:
+    - body
+    - 6163
+    - 6167
+  label: 八廓之圖
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em002_jc_001-d2d17
+    span:
+    - body
+    - 6167
+    - 7047
+  label: 孫真人還睛表
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em002_jc_001-d2.d17d8
+    span:
+    - body
+    - 6842
+    - 6933
+  label: 還睛丸
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em002_jc_001-d2.d17d9
+    span:
+    - body
+    - 6933
+    - 7047
+  label: 煮針法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em002_jc_001-d2d18
+    span:
+    - body
+    - 7047
+    - 11843
+  label: 明堂問答七十二證之因
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em002_jc_001-d2d19
+    span:
+    - body
+    - 11843
+    - 11972
+  label: 眼有七十三證內有十四證不治
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.h1s1
+    span:
+    - body
+    - 0
+    - 6315
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3d2
+    span:
+    - body
+    - 2
+    - 6315
+  label: 眼科七十二證受疾之因
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d2
+    span:
+    - body
+    - 12
+    - 101
+  label: 圓翳內障
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d3
+    span:
+    - body
+    - 101
+    - 203
+  label: 冰翳內障
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d4
+    span:
+    - body
+    - 203
+    - 298
+  label: 滑翳內障
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d5
+    span:
+    - body
+    - 298
+    - 391
+  label: 澀翳內障
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d6
+    span:
+    - body
+    - 391
+    - 482
+  label: 橫翳內障
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d7
+    span:
+    - body
+    - 482
+    - 567
+  label: 浮翳內障
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d8
+    span:
+    - body
+    - 567
+    - 655
+  label: 偃月內障
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d9
+    span:
+    - body
+    - 655
+    - 733
+  label: 散翳內障
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d10
+    span:
+    - body
+    - 733
+    - 827
+  label: 沉翳內障
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d11
+    span:
+    - body
+    - 827
+    - 928
+  label: 棗花內障
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d12
+    span:
+    - body
+    - 928
+    - 1016
+  label: 白翳黃心
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d13
+    span:
+    - body
+    - 1016
+    - 1101
+  label: 黑花內障
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d14
+    span:
+    - body
+    - 1101
+    - 1190
+  label: 小兒胎患內障
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d15
+    span:
+    - body
+    - 1190
+    - 1283
+  label: 五風變內障
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d16
+    span:
+    - body
+    - 1283
+    - 1378
+  label: 雷頭風內障
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d17
+    span:
+    - body
+    - 1378
+    - 1476
+  label: 驚振內障
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d18
+    span:
+    - body
+    - 1476
+    - 1562
+  label: 綠風內障
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d19
+    span:
+    - body
+    - 1562
+    - 1646
+  label: 烏風內障
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d20
+    span:
+    - body
+    - 1646
+    - 1724
+  label: 黑風內障
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d21
+    span:
+    - body
+    - 1724
+    - 1803
+  label: 青風內障
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d22
+    span:
+    - body
+    - 1803
+    - 1892
+  label: 肝虛雀目
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d23
+    span:
+    - body
+    - 1892
+    - 1980
+  label: 高風雀目
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d24
+    span:
+    - body
+    - 1980
+    - 2071
+  label: 肝虛雀目暗
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d25
+    span:
+    - body
+    - 2071
+    - 2161
+  label: 肝臟積熱
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d26
+    span:
+    - body
+    - 2161
+    - 2240
+  label: 傷寒熱病
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d27
+    span:
+    - body
+    - 2240
+    - 2324
+  label: 混睛內障
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d28
+    span:
+    - body
+    - 2324
+    - 2407
+  label: 胬肉侵睛
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d29
+    span:
+    - body
+    - 2407
+    - 2501
+  label: 兩瞼黏睛
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d30
+    span:
+    - body
+    - 2501
+    - 2588
+  label: 膜入水輪
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d31
+    span:
+    - body
+    - 2588
+    - 2669
+  label: 丁翳根深
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d32
+    span:
+    - body
+    - 2669
+    - 2751
+  label: 黑翳如珠
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d33
+    span:
+    - body
+    - 2751
+    - 2833
+  label: 花翳白陷
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d34
+    span:
+    - body
+    - 2833
+    - 2917
+  label: 冰翳瑕深
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d35
+    span:
+    - body
+    - 2917
+    - 2997
+  label: 玉翳浮睛
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d36
+    span:
+    - body
+    - 2997
+    - 3078
+  label: 偶因他患後生翳
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d37
+    span:
+    - body
+    - 3078
+    - 3166
+  label: 逆順生翳
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d38
+    span:
+    - body
+    - 3166
+    - 3244
+  label: 雞冠蜆肉
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d39
+    span:
+    - body
+    - 3244
+    - 3330
+  label: 瞼生風粟
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d40
+    span:
+    - body
+    - 3330
+    - 3413
+  label: 胞肉凝脂
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d41
+    span:
+    - body
+    - 3413
+    - 3499
+  label: 漏睛膿出
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d42
+    span:
+    - body
+    - 3499
+    - 3584
+  label: 蟹眼睛疼
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d43
+    span:
+    - body
+    - 3584
+    - 3669
+  label: 突起睛高
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d44
+    span:
+    - body
+    - 3669
+    - 3762
+  label: 風牽喎斜
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d45
+    span:
+    - body
+    - 3762
+    - 3859
+  label: 倒睫拳毛
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d46
+    span:
+    - body
+    - 3859
+    - 3960
+  label: 風牽瞼出
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d47
+    span:
+    - body
+    - 3960
+    - 4052
+  label: 神祟疼痛
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d48
+    span:
+    - body
+    - 4052
+    - 4160
+  label: 旋螺突起
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d49
+    span:
+    - body
+    - 4160
+    - 4246
+  label: 鶻眼凝脂
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d50
+    span:
+    - body
+    - 4246
+    - 4332
+  label: 轆轤轉睛
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d51
+    span:
+    - body
+    - 4332
+    - 4427
+  label: 撞打破傷
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d52
+    span:
+    - body
+    - 4427
+    - 4512
+  label: 撞刺生翳
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d53
+    span:
+    - body
+    - 4512
+    - 4603
+  label: 血灌瞳仁
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d54
+    span:
+    - body
+    - 4603
+    - 4724
+  label: 眛目飛塵
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d55
+    span:
+    - body
+    - 4724
+    - 4807
+  label: 天行赤眼
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d56
+    span:
+    - body
+    - 4807
+    - 4888
+  label: 暴赤生風
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d57
+    span:
+    - body
+    - 4888
+    - 4976
+  label: 胎風赤爛
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d58
+    span:
+    - body
+    - 4976
+    - 5059
+  label: 風赤瘡痍
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d59
+    span:
+    - body
+    - 5059
+    - 5144
+  label: 痛如針刺
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d60
+    span:
+    - body
+    - 5144
+    - 5228
+  label: 癢極難忍
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d61
+    span:
+    - body
+    - 5228
+    - 5320
+  label: 坐起生花
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d62
+    span:
+    - body
+    - 5320
+    - 5408
+  label: 瞳仁幹缺
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d63
+    span:
+    - body
+    - 5408
+    - 5489
+  label: 黃膜上衝
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d64
+    span:
+    - body
+    - 5489
+    - 5570
+  label: 赤膜下垂
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d65
+    span:
+    - body
+    - 5570
+    - 5648
+  label: 小眥赤脈
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d66
+    span:
+    - body
+    - 5648
+    - 5729
+  label: 小兒雙目通睛
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d67
+    span:
+    - body
+    - 5729
+    - 5810
+  label: 小兒胞肉生瘡
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d68
+    span:
+    - body
+    - 5810
+    - 5907
+  label: 小兒睛中生贅
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d69
+    span:
+    - body
+    - 5907
+    - 5987
+  label: 小兒疳眼
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d70
+    span:
+    - body
+    - 5987
+    - 6083
+  label: 小兒青盲
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d71
+    span:
+    - body
+    - 6083
+    - 6161
+  label: 暴赤生熱
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d72
+    span:
+    - body
+    - 6161
+    - 6235
+  label: 迎風流淚
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em002_jc_002-d3.d2d73
+    span:
+    - body
+    - 6235
+    - 6315
+  label: 瞼硬睛疼
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.h1s1
+    span:
+    - body
+    - 0
+    - 9602
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4d2
+    span:
+    - body
+    - 2
+    - 310
+  label: 祖傳明目神方
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4d3
+    span:
+    - body
+    - 310
+    - 419
+  label: 太玄妙方治翳障遮睛並美
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4d4
+    span:
+    - body
+    - 419
+    - 1309
+  label: 治眼五臟補瀉用藥
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d4d2
+    span:
+    - body
+    - 427
+    - 454
+  label: 瀉心藥
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d4d3
+    span:
+    - body
+    - 454
+    - 482
+  label: 補心藥
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d4d4
+    span:
+    - body
+    - 482
+    - 535
+  label: 瀉肝藥
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d4d5
+    span:
+    - body
+    - 535
+    - 561
+  label: 補肝藥
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d4d6
+    span:
+    - body
+    - 561
+    - 568
+  label: 瀉脾藥
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d4d7
+    span:
+    - body
+    - 568
+    - 589
+  label: 補脾藥
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d4d8
+    span:
+    - body
+    - 589
+    - 617
+  label: 瀉肺藥
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d4d9
+    span:
+    - body
+    - 617
+    - 644
+  label: 補肺藥
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d4d10
+    span:
+    - body
+    - 644
+    - 657
+  label: 瀉腎藥
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d4d11
+    span:
+    - body
+    - 657
+    - 682
+  label: 補腎藥
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d4d12
+    span:
+    - body
+    - 682
+    - 740
+  label: 治眼方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d4d13
+    span:
+    - body
+    - 740
+    - 801
+  label: 眼有紅障方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d4d14
+    span:
+    - body
+    - 801
+    - 858
+  label: 治青雲障方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d4d15
+    span:
+    - body
+    - 858
+    - 895
+  label: 治眼常痛
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d4d16
+    span:
+    - body
+    - 895
+    - 933
+  label: 治爛眩風
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d4d17
+    span:
+    - body
+    - 933
+    - 969
+  label: 治眼常流淚
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d4d18
+    span:
+    - body
+    - 969
+    - 1018
+  label: 治眼常昏暗
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d4d19
+    span:
+    - body
+    - 1018
+    - 1068
+  label: 治眼赤障
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d4d20
+    span:
+    - body
+    - 1068
+    - 1104
+  label: 治眼白障
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d4d21
+    span:
+    - body
+    - 1104
+    - 1309
+  label: 灸眼法
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4d5
+    span:
+    - body
+    - 1309
+    - 6134
+  label: 治眼七十二證良方
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d2
+    span:
+    - body
+    - 1317
+    - 1321
+  label: 一問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d3
+    span:
+    - body
+    - 1321
+    - 1424
+  label: 二問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d4
+    span:
+    - body
+    - 1424
+    - 1526
+  label: 三問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d5
+    span:
+    - body
+    - 1526
+    - 1675
+  label: 四問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d6
+    span:
+    - body
+    - 1675
+    - 1764
+  label: 五問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d7
+    span:
+    - body
+    - 1764
+    - 1903
+  label: 六問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d8
+    span:
+    - body
+    - 1903
+    - 1964
+  label: 七問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d9
+    span:
+    - body
+    - 1964
+    - 2053
+  label: 八問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d10
+    span:
+    - body
+    - 2053
+    - 2120
+  label: 九問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d11
+    span:
+    - body
+    - 2120
+    - 2149
+  label: 十問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d12
+    span:
+    - body
+    - 2149
+    - 2287
+  label: 十一問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d13
+    span:
+    - body
+    - 2287
+    - 2416
+  label: 十二問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d14
+    span:
+    - body
+    - 2416
+    - 2464
+  label: 十三問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d15
+    span:
+    - body
+    - 2464
+    - 2505
+  label: 十四問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d16
+    span:
+    - body
+    - 2505
+    - 2588
+  label: 十五問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d17
+    span:
+    - body
+    - 2588
+    - 2675
+  label: 十六問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d18
+    span:
+    - body
+    - 2675
+    - 2810
+  label: 十七問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d19
+    span:
+    - body
+    - 2810
+    - 2821
+  label: 十八問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d20
+    span:
+    - body
+    - 2821
+    - 2917
+  label: 十九問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d21
+    span:
+    - body
+    - 2917
+    - 2996
+  label: 二十問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d22
+    span:
+    - body
+    - 2996
+    - 3009
+  label: 二十一問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d23
+    span:
+    - body
+    - 3009
+    - 3243
+  label: 二十二問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d24
+    span:
+    - body
+    - 3243
+    - 3299
+  label: 二十三問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d25
+    span:
+    - body
+    - 3299
+    - 3344
+  label: 二十四問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d26
+    span:
+    - body
+    - 3344
+    - 3493
+  label: 二十五問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d27
+    span:
+    - body
+    - 3493
+    - 3556
+  label: 二十六問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d28
+    span:
+    - body
+    - 3556
+    - 3714
+  label: 二十七問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d29
+    span:
+    - body
+    - 3714
+    - 3829
+  label: 二十八問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d30
+    span:
+    - body
+    - 3829
+    - 3876
+  label: 二十九問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d31
+    span:
+    - body
+    - 3876
+    - 3940
+  label: 三十問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d32
+    span:
+    - body
+    - 3940
+    - 3992
+  label: 三十一問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d33
+    span:
+    - body
+    - 3992
+    - 4037
+  label: 三十二問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d34
+    span:
+    - body
+    - 4037
+    - 4073
+  label: 三十三問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d35
+    span:
+    - body
+    - 4073
+    - 4106
+  label: 三十四問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d36
+    span:
+    - body
+    - 4106
+    - 4176
+  label: 三十五問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d37
+    span:
+    - body
+    - 4176
+    - 4217
+  label: 三十六問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d38
+    span:
+    - body
+    - 4217
+    - 4258
+  label: 三十七問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d39
+    span:
+    - body
+    - 4258
+    - 4294
+  label: 三十八問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d40
+    span:
+    - body
+    - 4294
+    - 4361
+  label: 三十九問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d41
+    span:
+    - body
+    - 4361
+    - 4399
+  label: 四十問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d42
+    span:
+    - body
+    - 4399
+    - 4406
+  label: 四十一問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d43
+    span:
+    - body
+    - 4406
+    - 4462
+  label: 四十二問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d44
+    span:
+    - body
+    - 4462
+    - 4555
+  label: 四十三問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d45
+    span:
+    - body
+    - 4555
+    - 4597
+  label: 四十四問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d46
+    span:
+    - body
+    - 4597
+    - 4680
+  label: 四十五問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d47
+    span:
+    - body
+    - 4680
+    - 4727
+  label: 四十六問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d48
+    span:
+    - body
+    - 4727
+    - 4797
+  label: 四十七問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d49
+    span:
+    - body
+    - 4797
+    - 4839
+  label: 四十八問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d50
+    span:
+    - body
+    - 4839
+    - 4887
+  label: 四十九問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d51
+    span:
+    - body
+    - 4887
+    - 4944
+  label: 五十問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d52
+    span:
+    - body
+    - 4944
+    - 5005
+  label: 五十一問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d53
+    span:
+    - body
+    - 5005
+    - 5061
+  label: 五十二問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d54
+    span:
+    - body
+    - 5061
+    - 5100
+  label: 五十三問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d55
+    span:
+    - body
+    - 5100
+    - 5184
+  label: 五十四問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d56
+    span:
+    - body
+    - 5184
+    - 5271
+  label: 五十五問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d57
+    span:
+    - body
+    - 5271
+    - 5308
+  label: 五十六問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d58
+    span:
+    - body
+    - 5308
+    - 5400
+  label: 五十七問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d59
+    span:
+    - body
+    - 5400
+    - 5407
+  label: 五十八問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d60
+    span:
+    - body
+    - 5407
+    - 5453
+  label: 五十九問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d61
+    span:
+    - body
+    - 5453
+    - 5494
+  label: 六十問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d62
+    span:
+    - body
+    - 5494
+    - 5642
+  label: 六十一問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d63
+    span:
+    - body
+    - 5642
+    - 5670
+  label: 六十二問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d64
+    span:
+    - body
+    - 5670
+    - 5683
+  label: 六十三問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d65
+    span:
+    - body
+    - 5683
+    - 5729
+  label: 六十四問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d66
+    span:
+    - body
+    - 5729
+    - 5736
+  label: 六十五問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d67
+    span:
+    - body
+    - 5736
+    - 5782
+  label: 六十六問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d68
+    span:
+    - body
+    - 5782
+    - 5834
+  label: 六十七問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d69
+    span:
+    - body
+    - 5834
+    - 5872
+  label: 六十八問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d70
+    span:
+    - body
+    - 5872
+    - 5914
+  label: 六十九問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d71
+    span:
+    - body
+    - 5914
+    - 5955
+  label: 七十問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d72
+    span:
+    - body
+    - 5955
+    - 6078
+  label: 七十一問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d5d73
+    span:
+    - body
+    - 6078
+    - 6134
+  label: 七十二問
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4d6
+    span:
+    - body
+    - 6134
+    - 9602
+  label: 治眼方
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d2
+    span:
+    - body
+    - 6137
+    - 6182
+  label: 補肝散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d3
+    span:
+    - body
+    - 6182
+    - 6224
+  label: 補肝散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d4
+    span:
+    - body
+    - 6224
+    - 6265
+  label: 通肝散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d5
+    span:
+    - body
+    - 6265
+    - 6300
+  label: 瀉肝散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d6
+    span:
+    - body
+    - 6300
+    - 6338
+  label: 瀉肝散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d7
+    span:
+    - body
+    - 6338
+    - 6394
+  label: 清肝散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d8
+    span:
+    - body
+    - 6394
+    - 6446
+  label: 洗肝散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d9
+    span:
+    - body
+    - 6446
+    - 6465
+  label: 涼肝散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d10
+    span:
+    - body
+    - 6465
+    - 6490
+  label: 涼肝散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d11
+    span:
+    - body
+    - 6490
+    - 6535
+  label: 瀉肝散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d12
+    span:
+    - body
+    - 6535
+    - 6580
+  label: 鎮肝丸
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d13
+    span:
+    - body
+    - 6580
+    - 6601
+  label: 涼肝散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d14
+    span:
+    - body
+    - 6601
+    - 6666
+  label: 炙肝散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d15
+    span:
+    - body
+    - 6666
+    - 6704
+  label: 清肺散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d16
+    span:
+    - body
+    - 6704
+    - 6747
+  label: 大瀉肺散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d17
+    span:
+    - body
+    - 6747
+    - 6794
+  label: 涼膈散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d18
+    span:
+    - body
+    - 6794
+    - 6835
+  label: 涼膽丸
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d19
+    span:
+    - body
+    - 6835
+    - 6897
+  label: 洗心散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d20
+    span:
+    - body
+    - 6897
+    - 6935
+  label: 清心散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d21
+    span:
+    - body
+    - 6935
+    - 6968
+  label: 撥心散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d22
+    span:
+    - body
+    - 6968
+    - 7004
+  label: 還睛散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d23
+    span:
+    - body
+    - 7004
+    - 7054
+  label: 還睛丸
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d24
+    span:
+    - body
+    - 7054
+    - 7125
+  label: 孫思邈進藥表還睛丸
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d25
+    span:
+    - body
+    - 7125
+    - 7167
+  label: 決明散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d26
+    span:
+    - body
+    - 7167
+    - 7226
+  label: 決明散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d27
+    span:
+    - body
+    - 7226
+    - 7260
+  label: 決明丸
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d28
+    span:
+    - body
+    - 7260
+    - 7308
+  label: 決明丹
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d29
+    span:
+    - body
+    - 7308
+    - 7333
+  label: 地黃散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d30
+    span:
+    - body
+    - 7333
+    - 7381
+  label: 如聖地黃丸
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d31
+    span:
+    - body
+    - 7381
+    - 7420
+  label: 地黃膏
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d32
+    span:
+    - body
+    - 7420
+    - 7441
+  label: 二黃散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d33
+    span:
+    - body
+    - 7441
+    - 7490
+  label: 加味三黃丸
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d34
+    span:
+    - body
+    - 7490
+    - 7517
+  label: 清涼散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d35
+    span:
+    - body
+    - 7517
+    - 7557
+  label: 解涼散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d36
+    span:
+    - body
+    - 7557
+    - 7596
+  label: 涼疳丸
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d37
+    span:
+    - body
+    - 7596
+    - 7668
+  label: 小柴胡湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d38
+    span:
+    - body
+    - 7668
+    - 7704
+  label: 柴胡散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d39
+    span:
+    - body
+    - 7704
+    - 7759
+  label: 勝金散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d40
+    span:
+    - body
+    - 7759
+    - 7820
+  label: 清涼散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d41
+    span:
+    - body
+    - 7820
+    - 7852
+  label: 冷淚方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d42
+    span:
+    - body
+    - 7852
+    - 7878
+  label: 立應丸
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d43
+    span:
+    - body
+    - 7878
+    - 7910
+  label: 俱治冷淚楮實丸
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d44
+    span:
+    - body
+    - 7910
+    - 7949
+  label: 還睛散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d45
+    span:
+    - body
+    - 7949
+    - 7985
+  label: 治眼膿漏不止方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d46
+    span:
+    - body
+    - 7985
+    - 8037
+  label: 金露散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d47
+    span:
+    - body
+    - 8037
+    - 8081
+  label: 小兒痘疹小兒痘疹後毒氣攻目致生翳膜及下元赤白痢疾
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d48
+    span:
+    - body
+    - 8081
+    - 8185
+  label: 通神效
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d49
+    span:
+    - body
+    - 8185
+    - 8226
+  label: 小兒周年半歲患赤眼者
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d50
+    span:
+    - body
+    - 8226
+    - 8369
+  label: 小兒癍瘡患後睛上有膜
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d51
+    span:
+    - body
+    - 8369
+    - 8460
+  label: 磁石丸
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d52
+    span:
+    - body
+    - 8460
+    - 8520
+  label: 磁石丸
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d53
+    span:
+    - body
+    - 8520
+    - 8569
+  label: 乳香丸
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d54
+    span:
+    - body
+    - 8569
+    - 8604
+  label: 乳香散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d55
+    span:
+    - body
+    - 8604
+    - 8668
+  label: 乳香丸
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d56
+    span:
+    - body
+    - 8668
+    - 8710
+  label: 藿香散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d57
+    span:
+    - body
+    - 8710
+    - 8748
+  label: 檀香散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d58
+    span:
+    - body
+    - 8748
+    - 8828
+  label: 磨翳散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d59
+    span:
+    - body
+    - 8828
+    - 8864
+  label: 治風翳
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d60
+    span:
+    - body
+    - 8864
+    - 8891
+  label: 穀精散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d61
+    span:
+    - body
+    - 8891
+    - 8939
+  label: 除翳散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d62
+    span:
+    - body
+    - 8939
+    - 9002
+  label: 退翳散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d63
+    span:
+    - body
+    - 9002
+    - 9034
+  label: 磨翳丸
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d64
+    span:
+    - body
+    - 9034
+    - 9074
+  label: 散血散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d65
+    span:
+    - body
+    - 9074
+    - 9114
+  label: 散血散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d66
+    span:
+    - body
+    - 9114
+    - 9141
+  label: 退赤散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d67
+    span:
+    - body
+    - 9141
+    - 9179
+  label: 退赤丸
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d68
+    span:
+    - body
+    - 9179
+    - 9206
+  label: 逐血散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d69
+    span:
+    - body
+    - 9206
+    - 9247
+  label: 活血散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d70
+    span:
+    - body
+    - 9247
+    - 9288
+  label: 退血散
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d71
+    span:
+    - body
+    - 9288
+    - 9324
+  label: 四物湯
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d72
+    span:
+    - body
+    - 9324
+    - 9353
+  label: 貼眼藥
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d73
+    span:
+    - body
+    - 9353
+    - 9379
+  label: 貼眼藥
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d74
+    span:
+    - body
+    - 9379
+    - 9413
+  label: 瀉眼藥
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d75
+    span:
+    - body
+    - 9413
+    - 9452
+  label: 貼眼藥
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d76
+    span:
+    - body
+    - 9452
+    - 9517
+  label: 貼眼藥
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d77
+    span:
+    - body
+    - 9517
+    - 9572
+  label: 貼眼藥
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3em002_jc_003-d4.d6d78
+    span:
+    - body
+    - 9572
+    - 9602
+  label: 貼眼藥
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.h1s1
+    span:
+    - body
+    - 0
+    - 7647
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5d2
+    span:
+    - body
+    - 2
+    - 7647
+  label: 治眼方
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d2
+    span:
+    - body
+    - 5
+    - 47
+  label: 治心間有熱眼有赤脈血灌瞳人方
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d3
+    span:
+    - body
+    - 47
+    - 78
+  label: 治爛眩風眼
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d4
+    span:
+    - body
+    - 78
+    - 128
+  label: 糖煎散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d5
+    span:
+    - body
+    - 128
+    - 177
+  label: 治雀目眼方
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d6
+    span:
+    - body
+    - 177
+    - 228
+  label: 蛤粉丸
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d7
+    span:
+    - body
+    - 228
+    - 303
+  label: 豬肝丸
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d8
+    span:
+    - body
+    - 303
+    - 344
+  label: 治雀目方
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d9
+    span:
+    - body
+    - 344
+    - 380
+  label: 治眼赤腫疼痛方
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d10
+    span:
+    - body
+    - 380
+    - 413
+  label: 雙劍散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d11
+    span:
+    - body
+    - 413
+    - 453
+  label: 搐鼻散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d12
+    span:
+    - body
+    - 453
+    - 489
+  label: 吹鼻散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d13
+    span:
+    - body
+    - 489
+    - 532
+  label: 搐鼻方
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d14
+    span:
+    - body
+    - 532
+    - 556
+  label: 生地黃湯
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d15
+    span:
+    - body
+    - 556
+    - 608
+  label: 二地散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d16
+    span:
+    - body
+    - 608
+    - 647
+  label: 聚寶散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d17
+    span:
+    - body
+    - 647
+    - 684
+  label: 防己散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d18
+    span:
+    - body
+    - 684
+    - 732
+  label: 鐵柱散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d19
+    span:
+    - body
+    - 732
+    - 764
+  label: 蒺藜散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d20
+    span:
+    - body
+    - 764
+    - 809
+  label: 細辛散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d21
+    span:
+    - body
+    - 809
+    - 852
+  label: 細辛散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d22
+    span:
+    - body
+    - 852
+    - 887
+  label: 住淚散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d23
+    span:
+    - body
+    - 887
+    - 978
+  label: 防風散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d24
+    span:
+    - body
+    - 978
+    - 1020
+  label: 防風散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d25
+    span:
+    - body
+    - 1020
+    - 1106
+  label: 川芎散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d26
+    span:
+    - body
+    - 1106
+    - 1144
+  label: 川芎散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d27
+    span:
+    - body
+    - 1144
+    - 1169
+  label: 消毒散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d28
+    span:
+    - body
+    - 1169
+    - 1199
+  label: 消毒飲
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d29
+    span:
+    - body
+    - 1199
+    - 1237
+  label: 五退散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d30
+    span:
+    - body
+    - 1237
+    - 1269
+  label: 經效散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d31
+    span:
+    - body
+    - 1269
+    - 1302
+  label: 罌粟丸
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d32
+    span:
+    - body
+    - 1302
+    - 1327
+  label: 碧霞散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d33
+    span:
+    - body
+    - 1327
+    - 1367
+  label: 驅風散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d34
+    span:
+    - body
+    - 1367
+    - 1410
+  label: 二宜散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d35
+    span:
+    - body
+    - 1410
+    - 1453
+  label: 當歸散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d36
+    span:
+    - body
+    - 1453
+    - 1502
+  label: 當歸散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d37
+    span:
+    - body
+    - 1502
+    - 1529
+  label: 四靈散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d38
+    span:
+    - body
+    - 1529
+    - 1573
+  label: 六神散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d39
+    span:
+    - body
+    - 1573
+    - 1649
+  label: 菊花散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d40
+    span:
+    - body
+    - 1649
+    - 1698
+  label: 菊花散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d41
+    span:
+    - body
+    - 1698
+    - 1728
+  label: 白芷散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d42
+    span:
+    - body
+    - 1728
+    - 1795
+  label: 三花五子丸
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d43
+    span:
+    - body
+    - 1795
+    - 1879
+  label: 七子丸
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d44
+    span:
+    - body
+    - 1879
+    - 1921
+  label: 黃芩散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d45
+    span:
+    - body
+    - 1921
+    - 1979
+  label: 黃苓散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d46
+    span:
+    - body
+    - 1979
+    - 2005
+  label: 明目丸
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d47
+    span:
+    - body
+    - 2005
+    - 2058
+  label: 人參散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d48
+    span:
+    - body
+    - 2058
+    - 2095
+  label: 木賊散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d49
+    span:
+    - body
+    - 2095
+    - 2153
+  label: 佛手散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d50
+    span:
+    - body
+    - 2153
+    - 2189
+  label: 槐花散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d51
+    span:
+    - body
+    - 2189
+    - 2228
+  label: 荊芥散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d52
+    span:
+    - body
+    - 2228
+    - 2307
+  label: 荊芥湯
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d53
+    span:
+    - body
+    - 2307
+    - 2379
+  label: 密蒙花散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d54
+    span:
+    - body
+    - 2379
+    - 2437
+  label: 密蒙花散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d55
+    span:
+    - body
+    - 2437
+    - 2464
+  label: 防風散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d56
+    span:
+    - body
+    - 2464
+    - 2507
+  label: 羌活散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d57
+    span:
+    - body
+    - 2507
+    - 2585
+  label: 羌活散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d58
+    span:
+    - body
+    - 2585
+    - 2649
+  label: 羌活散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d59
+    span:
+    - body
+    - 2649
+    - 2705
+  label: 蔓荊散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d60
+    span:
+    - body
+    - 2705
+    - 2767
+  label: 竹葉散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d61
+    span:
+    - body
+    - 2767
+    - 2823
+  label: 胬肉散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d62
+    span:
+    - body
+    - 2823
+    - 2849
+  label: 退頂散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d63
+    span:
+    - body
+    - 2849
+    - 2877
+  label: 透頂散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d64
+    span:
+    - body
+    - 2877
+    - 2905
+  label: 退翳光明散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d65
+    span:
+    - body
+    - 2905
+    - 2957
+  label: 透光散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d66
+    span:
+    - body
+    - 2957
+    - 3019
+  label: 神應回光散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d67
+    span:
+    - body
+    - 3019
+    - 3072
+  label: 二草散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d68
+    span:
+    - body
+    - 3072
+    - 3131
+  label: 金鈴散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d69
+    span:
+    - body
+    - 3131
+    - 3172
+  label: 茯苓散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d70
+    span:
+    - body
+    - 3172
+    - 3251
+  label: 黑神散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d71
+    span:
+    - body
+    - 3251
+    - 3310
+  label: 茶調散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d72
+    span:
+    - body
+    - 3310
+    - 3364
+  label: 夢靈丸
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d73
+    span:
+    - body
+    - 3364
+    - 3457
+  label: 錦鳩丸
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d74
+    span:
+    - body
+    - 3457
+    - 3510
+  label: 大雷丸
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d75
+    span:
+    - body
+    - 3510
+    - 3549
+  label: 蘆薈丸
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d76
+    span:
+    - body
+    - 3549
+    - 3611
+  label: 岩電丸
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d77
+    span:
+    - body
+    - 3611
+    - 3657
+  label: 夏枯草丸
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d78
+    span:
+    - body
+    - 3657
+    - 3738
+  label: 天麻丸
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d79
+    span:
+    - body
+    - 3738
+    - 3799
+  label: 蔥白丸
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d80
+    span:
+    - body
+    - 3799
+    - 3842
+  label: 補腎丸
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d81
+    span:
+    - body
+    - 3842
+    - 3883
+  label: 定心丸
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d82
+    span:
+    - body
+    - 3883
+    - 3916
+  label: 白薇丸
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d83
+    span:
+    - body
+    - 3916
+    - 3957
+  label: 遠志丸
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d84
+    span:
+    - body
+    - 3957
+    - 4045
+  label: 遠志丸
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d85
+    span:
+    - body
+    - 4045
+    - 4092
+  label: 虎睛丸
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d86
+    span:
+    - body
+    - 4092
+    - 4131
+  label: 三奇丸
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d87
+    span:
+    - body
+    - 4131
+    - 4264
+  label: 金釵丸
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d88
+    span:
+    - body
+    - 4264
+    - 4390
+  label: 紫金丸
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d89
+    span:
+    - body
+    - 4390
+    - 4455
+  label: 照水丹
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d90
+    span:
+    - body
+    - 4455
+    - 4539
+  label: 犀角湯
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d91
+    span:
+    - body
+    - 4539
+    - 4570
+  label: 四順散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d92
+    span:
+    - body
+    - 4570
+    - 4603
+  label: 桑白皮湯
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d93
+    span:
+    - body
+    - 4603
+    - 4641
+  label: 治眼珠突起赤腫流膿疼痛方
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d94
+    span:
+    - body
+    - 4641
+    - 4676
+  label: 秦皮散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d95
+    span:
+    - body
+    - 4676
+    - 4758
+  label: 二宜膏點藥
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d96
+    span:
+    - body
+    - 4758
+    - 4811
+  label: 乾柿膏
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d97
+    span:
+    - body
+    - 4811
+    - 4864
+  label: 硃砂膏
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d98
+    span:
+    - body
+    - 4864
+    - 4916
+  label: 黃連膏
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d99
+    span:
+    - body
+    - 4916
+    - 4950
+  label: 春雪膏
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d100
+    span:
+    - body
+    - 4950
+    - 4991
+  label: 神仙太乙膏
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d101
+    span:
+    - body
+    - 4991
+    - 5124
+  label: 治眼諸般翳障昏暗方
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d102
+    span:
+    - body
+    - 5124
+    - 5175
+  label: 治冷淚方
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d103
+    span:
+    - body
+    - 5175
+    - 5239
+  label: 久補增肝力方
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d104
+    span:
+    - body
+    - 5239
+    - 5320
+  label: 兩目赤腫方
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d105
+    span:
+    - body
+    - 5320
+    - 5370
+  label: 敗毒散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d106
+    span:
+    - body
+    - 5370
+    - 5418
+  label: 治上焦受風熱氣攻眼暴赤羞明澀痛方
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d107
+    span:
+    - body
+    - 5418
+    - 5516
+  label: 時行暴赤方
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d108
+    span:
+    - body
+    - 5516
+    - 5576
+  label: 連翹散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d109
+    span:
+    - body
+    - 5576
+    - 5617
+  label: 黃連丸
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d110
+    span:
+    - body
+    - 5617
+    - 5654
+  label: 治虛眼方
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d111
+    span:
+    - body
+    - 5654
+    - 5683
+  label: 瀉白散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d112
+    span:
+    - body
+    - 5683
+    - 5721
+  label: 瀉青散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d113
+    span:
+    - body
+    - 5721
+    - 5801
+  label: 治暴赤眼方
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d114
+    span:
+    - body
+    - 5801
+    - 5872
+  label: 百解散
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d115
+    span:
+    - body
+    - 5872
+    - 5966
+  label: 明目益腎丸
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d116
+    span:
+    - body
+    - 5966
+    - 6041
+  label: 滋陰地黃丸
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d117
+    span:
+    - body
+    - 6041
+    - 6105
+  label: 六味地黃丸
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d118
+    span:
+    - body
+    - 6105
+    - 6223
+  label: 撥雲丸
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d119
+    span:
+    - body
+    - 6223
+    - 6295
+  label: 點眼神膏
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d120
+    span:
+    - body
+    - 6295
+    - 6324
+  label: 針赤眼
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d121
+    span:
+    - body
+    - 6324
+    - 6354
+  label: 針眼痛
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d122
+    span:
+    - body
+    - 6354
+    - 6407
+  label: 治婦人赤眼頭風方
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d123
+    span:
+    - body
+    - 6407
+    - 6487
+  label: 治婦人血犯肝經眼花見鬼方
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d124
+    span:
+    - body
+    - 6487
+    - 6520
+  label: 退赤
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d125
+    span:
+    - body
+    - 6520
+    - 6554
+  label: 除昏
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d126
+    span:
+    - body
+    - 6554
+    - 6587
+  label: 去熱
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d127
+    span:
+    - body
+    - 6587
+    - 6613
+  label: 定痛
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d128
+    span:
+    - body
+    - 6613
+    - 6663
+  label: 止淚
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d129
+    span:
+    - body
+    - 6663
+    - 6695
+  label: 磨翳
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d130
+    span:
+    - body
+    - 6695
+    - 6723
+  label: 去赤
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d131
+    span:
+    - body
+    - 6723
+    - 6752
+  label: 除胬肉
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d132
+    span:
+    - body
+    - 6752
+    - 6775
+  label: 活血
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d133
+    span:
+    - body
+    - 6775
+    - 6798
+  label: 順氣
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d134
+    span:
+    - body
+    - 6798
+    - 6828
+  label: 瀉肝
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d135
+    span:
+    - body
+    - 6828
+    - 6859
+  label: 洗腎
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d136
+    span:
+    - body
+    - 6859
+    - 6884
+  label: 洗心
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d137
+    span:
+    - body
+    - 6884
+    - 6909
+  label: 洗肺
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d138
+    span:
+    - body
+    - 6909
+    - 6948
+  label: 補腎
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d139
+    span:
+    - body
+    - 6948
+    - 6979
+  label: 補肝
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d140
+    span:
+    - body
+    - 6979
+    - 6995
+  label: 磨障
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d141
+    span:
+    - body
+    - 6995
+    - 7028
+  label: 倒睫
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d142
+    span:
+    - body
+    - 7028
+    - 7063
+  label: 消腫
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d143
+    span:
+    - body
+    - 7063
+    - 7102
+  label: 去風
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d144
+    span:
+    - body
+    - 7102
+    - 7135
+  label: 散血
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d145
+    span:
+    - body
+    - 7135
+    - 7163
+  label: 止痛
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d146
+    span:
+    - body
+    - 7163
+    - 7197
+  label: 頭風
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d147
+    span:
+    - body
+    - 7197
+    - 7228
+  label: 退血
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d148
+    span:
+    - body
+    - 7228
+    - 7255
+  label: 治酒毒
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d149
+    span:
+    - body
+    - 7255
+    - 7282
+  label: 護睛
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d150
+    span:
+    - body
+    - 7282
+    - 7307
+  label: 宣肺
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d151
+    span:
+    - body
+    - 7307
+    - 7329
+  label: 去胬肉
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d152
+    span:
+    - body
+    - 7329
+    - 7359
+  label: 天行赤眼
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d153
+    span:
+    - body
+    - 7359
+    - 7402
+  label: 痘癍瘡
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d154
+    span:
+    - body
+    - 7402
+    - 7422
+  label: 冷淚
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d155
+    span:
+    - body
+    - 7422
+    - 7453
+  label: 常洗
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d156
+    span:
+    - body
+    - 7453
+    - 7477
+  label: 常搐
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d157
+    span:
+    - body
+    - 7477
+    - 7503
+  label: 去翳
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d158
+    span:
+    - body
+    - 7503
+    - 7519
+  label: 洗腎
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d159
+    span:
+    - body
+    - 7519
+    - 7547
+  label: 搐鼻
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d160
+    span:
+    - body
+    - 7547
+    - 7572
+  label: 通用
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d161
+    span:
+    - body
+    - 7572
+    - 7595
+  label: 爛眩
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d162
+    span:
+    - body
+    - 7595
+    - 7623
+  label: 通用
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3em002_jc_004-d5.d2d163
+    span:
+    - body
+    - 7623
+    - 7647
+  label: 赤腫
+  type: section
+  level: 3
+hash: sha256:b122e3109cf794c724f80f4bd235478303a84f3edd372bea45567ce7db792a71
